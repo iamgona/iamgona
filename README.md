@@ -1,5 +1,5 @@
-- 👋 Hi, I’m gona
-- 👀 I’m interested in ... data in cloud
+- 👋 Hi, I’m gona a data analysis
+- 👀 I’m interested in database
 - 🌱 I’m currently learning ... AWS data analytics and aws Quicksights
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email: gonasiko7@gmail.com 
