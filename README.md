@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @iamgona
-- 👀 I’m interested in ... Cloud, Devops and data on cloud
-- 🌱 I’m currently learning ... Docker and kubernetes
+- 👋 Hi, I’m gona
+- 👀 I’m interested in ... data in cloud
+- 🌱 I’m currently learning ... AWS data analytics and aws Quicksights
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email: gonasiko7@gmail.com 
 
