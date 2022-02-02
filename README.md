@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gona, im a Cloud Engineer currently learing DEV OPS.
 - 👀 I’m interested cloud 
-- 🌱 I’m currently learning ... AWS data analytics and aws Quicksights
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Terraform and kubernetes
+- 💞️ I’m looking to collaborate on linkedin at Gonaseiko
 - 📫 How to reach me ... email: gonasiko7@gmail.com 
 
 <!---
